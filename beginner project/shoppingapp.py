@@ -12,6 +12,7 @@ availableItems = {1:{'item':'biscuits','quantity':5,'cost/item':20.5},
 display_available_items(availableItems)
 
 
+
 def abc(usercart):
     total = 0
     for item in usercart:
